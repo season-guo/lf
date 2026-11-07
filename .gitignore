@@ -1,0 +1,12 @@
+*.aux
+*.d
+*.html
+*.cache
+*.vo
+*.vok
+*.vos
+*.glob
+*.js
+common/*
+.devcontainer/*
+.claude/*
